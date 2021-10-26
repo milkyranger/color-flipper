@@ -1,0 +1,28 @@
+* {
+	margin: 0px;
+}
+div {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+}
+p {
+		font-family: Circular;
+	font-size: 30px;
+	    font-weight: 500;
+	color: white;
+}
+
+button {
+	font-family: Circular;
+	font-size: 12px;
+	    font-weight: 500;
+	color: white;
+	border-radius: 4px;
+    border: solid 1px #7278ff;
+        padding: 10px 15px;
+        background: #5a53bd;
+}
